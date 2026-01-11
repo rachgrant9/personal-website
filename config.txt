@@ -1,12 +1,12 @@
 # Portfolio Website Config
 
 # Social Links
-GITHUB_URL=https://github.com/yourusername
-LINKEDIN_URL=https://linkedin.com/in/yourusername
+GITHUB_URL=https://github.com/rachgrant9
+LINKEDIN_URL=https://linkedin.com/in/rachelgranttest
 
 # Contact Information
-EMAIL=your.email@example.com
-LOCATION=Your City, Country
+EMAIL=rachelgrant09@gmail.com
+LOCATION=Edinburgh, UK
 
 # Site Metadata
 SITE_TITLE=Rachel Grant | Portfolio

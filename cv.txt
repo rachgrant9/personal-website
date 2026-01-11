@@ -1,62 +1,73 @@
 # Rachel Grant - Curriculum Vitae
 
 ## PROFESSIONAL SUMMARY
-Experienced professional with expertise in software development and technology. Passionate about creating innovative solutions and continuously learning new technologies.
+Lead SDET with 7+ years building production automation frameworks across Python, .NET and web technologies. Expert in test architecture, CI/CD, and distributed cloud systems. "Mentor of the Year" nominee (Digital Isle 2023) with proven track record embedding quality into regulated, safety-critical systems. Specialized in designing scalable test frameworks, leading automation strategy, and delivering high-availability distributed systems.
 
 ## EXPERIENCE
 
-### Senior Software Engineer | Company Name
-*January 2022 - Present*
-- Led development of key projects and features
-- Collaborated with cross-functional teams to deliver high-quality solutions
-- Mentored junior developers and conducted code reviews
-- Technologies: JavaScript, TypeScript, React, Node.js
+### Principal SDET & Team Lead | Blue Skies Space
+*July 2024 - present*
+- Leading testing and software delivery for space start-up's first satellite launch (November 2025)
+- Defined end-to-end verification strategy embedding quality and regulatory compliance into SDLC
+- Built automated test frameworks spanning unit, integration and end-to-end testing
+- Established modern QE practices: shift-left testing, snapshot testing, charter-based exploratory testing
+- Enabled developer-owned testing through mentoring and lightweight test planning in team without dedicated QA
+- Architected full mission system: scheduling, operations control, satellite commanding, data processing, customer delivery
+- Introduced agile practices and engineering discipline to early-stage development environment
+- Report directly to CEO, translating technical progress for non-technical stakeholders
+- Led production incident response during satellite commissioning, coordinating cross-functional restoration efforts
+- Designed cloud staging/test environments and production DigitalOcean infrastructure supporting CI/CD
 
-### Software Engineer | Previous Company
-*March 2019 - December 2021*
-- Developed and maintained web applications
-- Implemented new features and resolved technical issues
-- Participated in agile development processes
-- Technologies: Python, Django, PostgreSQL
 
-### Junior Developer | First Company
-*June 2017 - February 2019*
-- Contributed to various development projects
-- Learned industry best practices and modern development workflows
-- Assisted in debugging and testing applications
-- Technologies: HTML, CSS, JavaScript, Git
+### Senior SDET | Derivco
+*June 2021 - June 2024*
+- One of three senior SDETs defining automation strategy and standards for 200+ engineers across 5 countries
+- Owned testing strategy for high-availability Account platform: .NET REST API (200+ endpoints), Kafka integrations, event streaming
+- Led test automation architecture across multiple teams: framework design, contracts, CI/CD integration, environment strategy
+- Scaled lightweight test planning approach across 5 teams in 3 countries, enabling self-service testing and reducing SDET dependency
+- Built production-grade frameworks (unit, integration, E2E) applying OO patterns: Abstract Factory, Builder, Singleton, POM
+- Drove organizational transformation from manual QA to SDET-led quality engineering, fostering shared ownership
+- Established company-wide SDET forums and monthly technical sessions for knowledge sharing
+- Provided technical mentorship, code review, and on-call support for production incidents
+
+
+### Software Test Engineer II | Illumina
+*November 2018 - May 2021*
+- Led IVDR-compliant verification for medical device releases, producing regulatory submission documentation
+- Designed and automated tests in Robot Framework and Python
+- Contributed to Cybersecurity SDLC workstream, embedding secure development practices
+- Collaborated across multidisciplinary teams: software, cybersecurity, assay development, marketing, customer support
+
 
 ## EDUCATION
 
-### Bachelor of Science in Computer Science
-*University Name, 2013 - 2017*
-- Graduated with Honors
-- Relevant coursework: Data Structures, Algorithms, Software Engineering
+### BSc Biochemistry (Hons) | University of Edinburgh
+*2014 - 2018*
+- High 2:1 overall, 1st in bioinformatics research project
+- Relevant modules: Python for biology, genomics, data analysis
 
 ## SKILLS
 
 ### Technical Skills
-- Languages: JavaScript, TypeScript, Python, HTML, CSS
-- Frameworks: React, Node.js, Express, Astro, Tailwind CSS
-- Tools: Git, Docker, VS Code, Vercel
-- Databases: PostgreSQL, MongoDB
+- Languages: C#, Python, JavaScript, Bash
+- Automation Frameworks: Playwright, Playwright MCP Server, NUnit, XUnit, Pytest, Selenium, Cypress, Robot Framework
+- Non-Functional Testing Tools: K8, OWASP Zap, Kali Linux
+- Tools: Git, Docker, VS Code, Kubernetes
+- Cloud: Digital Ocean, Azure, AWS, GCP
 
 ### Soft Skills
 - Problem Solving
-- Team Collaboration
-- Communication
-- Project Management
+- Mentoring & Career Development
+- Technical and Non-technical Communication
+- Product Management
 
 ## CERTIFICATIONS
-- AWS Certified Developer - Associate
-- Professional Scrum Master I
+- ISTQB Certified Foundation Level Tester
+- ISTQB Advanced Security Tester
 
 ## PROJECTS
-- Personal Portfolio Website - Built with Astro and Tailwind CSS
-- Open Source Contributions - Active contributor to various projects on GitHub
+- Personal portfolio website built with Astro and Tailwind CSS
+- Active open source contributor on GitHub
 
 ## INTERESTS
-- Open Source Development
-- Continuous Learning
-- Technology Innovation
-- Mentoring
+Mushroom foraging, live music, running, hiking, campervan adventures
