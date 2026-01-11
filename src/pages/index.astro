@@ -6,7 +6,7 @@ import path from 'node:path';
 const configPath = path.join(process.cwd(), 'config.txt');
 const configContent = fs.readFileSync(configPath, 'utf-8');
 const config: Record<string, string> = {};
-configContent.split('\n').forEach(line => {
+configContent.split('\n').forEach((line: string) => {
   if (line.trim() && !line.startsWith('#')) {
     const [key, ...valueParts] = line.split('=');
     if (key && valueParts.length) {
