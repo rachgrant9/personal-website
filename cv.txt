@@ -8,7 +8,8 @@ Lead SDET with 7+ years building production automation frameworks across Python,
 ### Principal SDET & Team Lead | Blue Skies Space
 *July 2024 - present*
 - Leading testing and software delivery for space start-up's first satellite launch (November 2025)
-- Defined end-to-end verification strategy embedding quality and regulatory compliance into SDLC
+- Line manager for three software engineers, responsible for their career development
+- Defined the SDLC and end-to-end verification strategy embedding quality and regulatory compliance into SDLC
 - Built automated test frameworks spanning unit, integration and end-to-end testing
 - Established modern QE practices: shift-left testing, snapshot testing, charter-based exploratory testing
 - Enabled developer-owned testing through mentoring and lightweight test planning in team without dedicated QA
